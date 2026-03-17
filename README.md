@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsh Shrivastava
 
-<!--
-**000HarsH000/000HarsH000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Machine Learning Engineer**
+📍IIT Roorkee, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* Passionate about building **real-world ML solutions**
+* Strong foundation in **Machine Learning & Deep Learning**
+* Interested in **Time Series, NLP, and Generative AI**
+
+---
+
+## 🧠 Skills
+
+### 💻 Programming & Tools
+
+* MySQL, Python, NumPy, Pandas
+* Scikit-learn, ML Models
+* PyTorch (Basics), TensorFlow (Basics)
+* FastAPI(Basic)
+
+### 📊 Machine Learning
+
+* Supervised & Unsupervised Learning
+* Feature Engineering & Model Optimization
+* Model Evaluation & Hyperparameter Tuning
+
+### 🤖 Deep Learning
+
+* ANN, CNN, RNN, LSTM
+* Fundamentals of Transformers
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Credit Risk Prediction
+
+* Built a classification model to predict loan default risk
+* Applied feature engineering + hyperparameter tuning
+* Improved model performance using ensemble techniques
+
+🔧 Tech: Python, Pandas, NumPy, Scikit-learn, XGBoost
+
+---
+
+### 📈 Time Series Forecasting
+
+- Built an end-to-end time series forecasting pipeline  
+- Performed data preprocessing, feature engineering, and sequence modeling  
+- Applied ML models to capture trends, seasonality, and patterns  
+- Generated reliable future predictions based on historical data  
+
+🔧 Tech: Python,  Pandas, NumPy, Scikit-learn, SARIMA
+
+---
+
+## 📈 GitHub Stats
+
+---
+
+## 🔥 What I'm Currently Working On
+
+* Building advanced ML projects for placements
+* Exploring **Transformers & Generative AI (RAG, LLMs)**
+* Improving model deployment skills
+
+---
+
+## 🎯 Career Goal
+
+To become a **Machine Learning Engineer** working on impactful, real-world problems
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: www.linkedin.com/in/harsh-shrivastava-connect
+* 📧 Email: harshswvr@gmail.com
+
+---
+
+⭐ *“Turning data into actionable insights and intelligent systems.”*
