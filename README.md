@@ -58,6 +58,14 @@
 
 ---
 
+### 🤖 Code Completion GPT
+
+- Developed a transformer-based language model for Python code completion  
+- Built end-to-end training pipeline with data preprocessing and optimization  
+- Enabled autoregressive code generation and evaluated performance using loss & perplexity  
+
+🔧 Tech: Python, PyTorch, Transformers
+
 ## 📈 GitHub Stats
 
 ---
