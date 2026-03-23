@@ -66,8 +66,6 @@
 
 🔧 Tech: Python, PyTorch, Transformers
 
-## 📈 GitHub Stats
-
 ---
 
 ## 🔥 What I'm Currently Working On
